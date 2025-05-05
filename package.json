@@ -1,0 +1,22 @@
+{
+  "name": "node-file-manager",
+  "version": "1.0.0",
+  "description": "Task2 File Manager",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elena040683/Node-file-manager.git"
+  },
+  "keywords": [],
+  "author": "Elena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elena040683/Node-file-manager/issues"
+  },
+  "homepage": "https://github.com/Elena040683/Node-file-manager#readme"
+}
